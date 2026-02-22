@@ -5,7 +5,7 @@
 - 名字是 `卡介菌` or `Kajiekazz` or `moeku` or ~~`幽灵部员`~~
 - 主要使用语言: **Golang**, 也写 PHP / Python / C
 - 参与开发 [ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)，一个 QQ 机器人插件合集
-- 做了个 [Rizline 中文维基](https://rizwiki.cn)，玩 Rizline 的可以来看看
+- 参与开发 [Rizline 中文维基](https://rizwiki.cn)，玩 Rizline 的可以来看看
 - 个人导航页: [moeku.org](https://moeku.org)
 - **单推艾拉**，可塑性记忆太好看了(´;ω;`)
 
